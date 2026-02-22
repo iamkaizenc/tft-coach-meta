@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/api/tft/cron-ladder",
+      "schedule": "0 0 * * *"
+    }
+  ]
+}
